@@ -1,0 +1,16 @@
+{
+  "title": "My site",
+  "accent": "#1f4fd8",
+  "pages": [
+    {
+      "name": "Home",
+      "blocks": [
+        {
+          "type": "hero",
+          "title": "Welcome",
+          "sub": "Click any text to edit it."
+        }
+      ]
+    }
+  ]
+}
