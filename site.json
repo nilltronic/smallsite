@@ -12,7 +12,7 @@
         },
         {
           "type": "text",
-          "html": "This is a website that is hosted on a off-grid portable network, it isn't connected to the world wide web.&nbsp;<div>The website files are stored on a small portable device that creates a web access point and serves this page.&nbsp;<div>Why? Good question... I don't really know why I did this. Call it an experiment to see if it was possible.</div></div><div>Anyhow, I hope you have a great day, here is a picture of a cute kitten.</div>"
+          "html": "<div>I hope you have a great day. Here is a picture of a cute kitten.</div>"
         },
         {
           "type": "image",
