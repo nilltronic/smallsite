@@ -1,3 +1,1 @@
 # smallsite
-
-Built with Sitewright.
