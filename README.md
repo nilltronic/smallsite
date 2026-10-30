@@ -1,0 +1,3 @@
+# smallsite
+
+Built with Sitewright.
